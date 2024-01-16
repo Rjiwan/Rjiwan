@@ -1,10 +1,10 @@
 # 류지완  RYU JI WAN | 끊임없이 발전하는 개발자
 <br>
 
-## Portfolio
+## 🙂Portfolio
 
-> [노션 이력서](https://luxurious-chips-bfa.notion.site/c1990a8824064daa9ffb62733f96a56f?pvs=4, "노션 이력서") <br>
-> [개인 블로그](https://ryudotori.tistory.com/, "개인 블로그")
+> 노션 이력서 - https://luxurious-chips-bfa.notion.site/c1990a8824064daa9ffb62733f96a56f?pvs=4 <br>
+> 개인 블로그 - https://ryudotori.tistory.com/
 <br>
 
 <!--
@@ -22,23 +22,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
-  
-  ## 😊About Me
-</div>
+## 😊About Me
+
 - 웹 개발에 흥미를 가지고 직업 훈련 기관에서 시작하여 6개월 간 훈련을 받았습니다. <br>
 - 사람들과 협력/소통하는 것을 좋아하며, 그로 인한 새로운 배움을 잘 받아들입니다. <br>
 - 제가 맡은 일은 책임감을 가지고 끝마쳐야 하는 성격을 가지고 있습니다. <br>
 - 어떤 일을 하든, 실력으로 인정받는 것을 목표로 합니다. <br>
 
 <br>
-
-<div align=center>
   
-  ## 🙂Experience
-</div>
+## 🧐Experience
 
-### 🎨So1omon (2023.09.18 ~ 2023.11.17)
+
+#### 🎨So1omon (2023.09.18 ~ 2023.11.17)
 1인가구를 위한 밀키트 및 가구 판매, 지원사업 소개 플랫폼 <br>
 [So1omon Github](https://github.com/YongJinPark91/So1omon)<br>
 > 1. 아임포트 api를 이용한 카카오페이 결제
@@ -49,7 +45,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🎨티켓딱대 (2023.07.01 ~ 2023.09.04)
+#### 🎨티켓딱대 (2023.07.01 ~ 2023.09.04)
 문화 컨텐츠를 한 곳에서 에매할 수 있는 웹사이트 <br>
 [티켓딱대 Github](https://github.com/inumsiki/ticketDdakdae)<br>
 > 1. 메인화면 전체 구성 및 구현 (회원 별 관심사에 따른 인기상품 추천)
@@ -61,19 +57,13 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align=center>
-  
-  ## 😮Education
-</div>
+## 😮Education
 
 ### 🎓KH정보교육원 (2023.05.24 ~ 2023.11.07)
 > 자바 개발자 직업 훈련과정 수료
 <br>
-
-<div align=center>
   
-  ## 🤩Skill
-</div>
+## 🤩Skill
 
 #### Backend
 <p>
@@ -84,8 +74,6 @@ Here are some ideas to get you started:
 #### Database
 <p>
   <img src="https://img.shields.io/badge/oracleDB-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache%20maven-%23C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache%20tomcat&logoColor=black" />  
 </p>
 
 #### Frontend
@@ -95,7 +83,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Ajax-%230063CB.svg?&style=for-the-badge" />
-  
 </p>
 
 #### Tool
