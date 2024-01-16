@@ -1,4 +1,12 @@
-# RYU JI WAN | 끊임없이 발전하는 개발자
+# 류지완  RYU JI WAN | 끊임없이 발전하는 개발자
+<br>
+
+## Portfolio
+
+> [노션 이력서](https://luxurious-chips-bfa.notion.site/c1990a8824064daa9ffb62733f96a56f?pvs=4) <br>
+> [개인 블로그](https://ryudotori.tistory.com/)
+<br>
+
 <!--
 **Rjiwan/Rjiwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,14 +35,40 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-  ## Experience
+  ## 🙂Experience
 </div>
 
+### 🎨So1omon (2023.09.18 ~ 2023.11.17)
+1인가구를 위한 밀키트 및 가구 판매, 지원사업 소개 플랫폼 <br>
+[So1omon Github](https://github.com/YongJinPark91/So1omon)
+<img src="https://github.com/YongJinPark91/So1omon/blob/main/readme/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.gif?raw=true" width="800">
+> 1. 아임포트 api를 이용한 카카오페이 결제
+> 2. 장바구니 상품 결제를 포함한 다양한 기능을 구현한 마이페이지
+> 3. 상품, 게시글 키워드 검색
+<br>
 
+### 🎨티켓딱대 (2023.07.01 ~ 2023.09.04)
+문화 컨텐츠를 한 곳에서 에매할 수 있는 웹사이트 <br>
+[티켓딱대 Github](https://github.com/inumsiki/ticketDdakdae)
+<img src="https://github.com/inumsiki/ticketDdakdae/assets/134485808/2e83cb2d-6f2a-4f20-b888-06751819b575" width="800">
+> 1. 메인화면 전체 구성 및 구현 (회원 별 관심사에 따른 인기상품 추천)
+> 2. 상품 상세페이지 구현
+> 3. 상품 검색페이지
+> 4. 카테고리별 페이지
+<br>
 
 <div align=center>
   
-  ## Skill
+  ## 😮Education
+</div>
+
+### 🎓KH정보교육원 (2023.05.24 ~ 2023.11.07)
+> 자바 개발자 직업 훈련과정 수료
+<br>
+
+<div align=center>
+  
+  ## 🤩Skill
 </div>
 
 #### Backend
@@ -79,9 +113,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Source%20Tree-%230052CC.svg?&style=for-the-badge&logo=atlassian&logoColor=white" />
 </p>
 
-<div align=center>
-  
-  ## Education
-</div>
+
 
 
