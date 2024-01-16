@@ -41,20 +41,24 @@ Here are some ideas to get you started:
 ### 🎨So1omon (2023.09.18 ~ 2023.11.17)
 1인가구를 위한 밀키트 및 가구 판매, 지원사업 소개 플랫폼 <br>
 [So1omon Github](https://github.com/YongJinPark91/So1omon)<br>
-<img src="https://github.com/YongJinPark91/So1omon/blob/main/readme/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.gif?raw=true" width="800"> <br>
 > 1. 아임포트 api를 이용한 카카오페이 결제
 > 2. 장바구니 상품 결제를 포함한 다양한 기능을 구현한 마이페이지
 > 3. 상품, 게시글 키워드 검색
+
+<img src="https://github.com/YongJinPark91/So1omon/blob/main/readme/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.gif?raw=true" width="800"> <br>
+
 <br>
 
 ### 🎨티켓딱대 (2023.07.01 ~ 2023.09.04)
 문화 컨텐츠를 한 곳에서 에매할 수 있는 웹사이트 <br>
 [티켓딱대 Github](https://github.com/inumsiki/ticketDdakdae)<br>
-<img src="https://github.com/inumsiki/ticketDdakdae/assets/134485808/2e83cb2d-6f2a-4f20-b888-06751819b575" width="800"><br>
 > 1. 메인화면 전체 구성 및 구현 (회원 별 관심사에 따른 인기상품 추천)
 > 2. 상품 상세페이지 구현
 > 3. 상품 검색페이지
 > 4. 카테고리별 페이지
+
+<img src="https://github.com/inumsiki/ticketDdakdae/assets/134485808/2e83cb2d-6f2a-4f20-b888-06751819b575" width="800"><br>
+
 <br>
 
 <div align=center>
