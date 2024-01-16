@@ -3,8 +3,8 @@
 
 ## Portfolio
 
-> [노션 이력서](https://luxurious-chips-bfa.notion.site/c1990a8824064daa9ffb62733f96a56f?pvs=4) <br>
-> [개인 블로그](https://ryudotori.tistory.com/)
+> [노션 이력서](https://luxurious-chips-bfa.notion.site/c1990a8824064daa9ffb62733f96a56f?pvs=4, "노션 이력서") <br>
+> [개인 블로그](https://ryudotori.tistory.com/, "개인 블로그")
 <br>
 
 <!--
